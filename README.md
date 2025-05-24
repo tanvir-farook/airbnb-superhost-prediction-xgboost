@@ -1,5 +1,3 @@
-# 🏠 Airbnb Superhost Prediction using XGBoost
-
 This project explores what factors influence a listing’s chances of achieving *Superhost* status on Airbnb. Using a combination of feature engineering, data cleaning, and machine learning (XGBoost), we build a predictive model that achieves 97–98% accuracy in classifying Superhost listings.
 
 🔍 **Key Highlights:**
